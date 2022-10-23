@@ -6,7 +6,7 @@ Notes for reference taken while compeleting Maximilian Schwarzmüller react cour
 
 1. [Getting Started](GettingStarted/GettingStarted.md)
 2. [JavaScript Refresher](JavaScriptRefresher/JavaScriptRefresher.md)
-3. React Basics :
+3. [React Basics](ReactBasics/ReactBasics.md) :
 
    1. Components
    2. State
