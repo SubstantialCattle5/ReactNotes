@@ -4,8 +4,8 @@ Notes for reference taken while compeleting Maximilian Schwarzmüller react cour
 
 ## Table of Contents
 
-1. Getting Started
-2. JavaScript Refresher
+1. [Getting Started](GettingStarted/GettingStarted.md)
+2. [JavaScript Refresher](JavaScriptRefresher/JavaScriptRefresher.md)
 3. React Basics :
 
    1. Components
