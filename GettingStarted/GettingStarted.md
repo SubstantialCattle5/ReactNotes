@@ -8,11 +8,15 @@ React is a free and open-source front-end JavaScript library for building user i
 
 ![Comparision](reactvsvjs.png)
 
-## Fun Functions 
+## Side Effects
 
-Not really next-gen JavaScript, but also important: JavaScript array functions like map() , filter() , reduce()  etc.
+You’ve likely performed data fetching, subscriptions, or manually changing the DOM from React components before. We call these operations “side effects” (or “effects” for short) because they can affect other components and can’t be done during rendering.
 
-The following page gives a good overview over the various methods you can use on the array prototype - feel free to click through them and refresh your knowledge as required: 
+## Fun Functions
+
+Not really next-gen JavaScript, but also important: JavaScript array functions like map() , filter() , reduce() etc.
+
+The following page gives a good overview over the various methods you can use on the array prototype - feel free to click through them and refresh your knowledge as required:
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array
 
 Particularly important in this course are:
